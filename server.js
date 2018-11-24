@@ -13,7 +13,7 @@ app.set('view engine', 'hbs');
 
 app.get('/', function(req, res) {
     res.render('home.hbs', {
-        nombre: 'sergio aSCANIO mÁrquez'
+        nombre: 'intradasting personita'
     });
 });
 
